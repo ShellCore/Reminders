@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Reminders</string>
+    <string name="btn_create_alarm">Crear alarma</string>
+    <string name="btn_cancel_alarm">Cancelar alarma</string>
 </resources>
